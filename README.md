@@ -9,7 +9,7 @@ Hello, Friend? That's lame. May be I should just stick with "Hi there 👋" or s
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snowballthelev&show_icons=true&locale=en&layout=compact&count_private=true&theme=dark&card_width=495px&langs_count=10" alt="snowballthelev" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=snowballthelev&show_icons=true&locale=en&count_private=true&theme=dark&card_width=495px&hide_title=true" alt="snowballthelev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=snowballthelev&show_icons=true&locale=en&count_private=true&theme=dark&card_width=495px&hide_title=true&hide_rank=false&rank_icon=github" alt="snowballthelev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snowballthelev&count_private=true&theme=dark&card_width=500px" alt="snowballthelev" /></p>
 
